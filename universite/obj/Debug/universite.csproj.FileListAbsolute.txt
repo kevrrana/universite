@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\universite\universite\obj\Debug\universite.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\universite\universite\obj\Debug\universite.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\universite\universite\obj\Debug\universite.Form1.resources
+C:\Users\User\source\repos\universite\universite\obj\Debug\universite.Properties.Resources.resources
+C:\Users\User\source\repos\universite\universite\obj\Debug\universite.csproj.GenerateResource.cache
+C:\Users\User\source\repos\universite\universite\obj\Debug\universite.csproj.CoreCompileInputs.cache
